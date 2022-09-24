@@ -1,0 +1,229 @@
+.glavnii {
+	display: flex;
+	background-image:url(../Images/аааа1.jpg);
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.glavnii2 {
+	display: flex;
+	background-image:url(../Images/аааа1.jpg);
+	margin: 0 auto;
+}
+
+.kvadrat {
+	position: absolute;
+	width: 1200px;
+	height: 920px;
+	background-image: url(../Images/CAcyfN2.jpg);
+	padding: 0.2px;
+	border-radius: 2%;
+	transform: translate(-50%, 0%);
+
+}
+
+.pt {
+	position: absolute;
+	margin: 0 auto;
+	transform: translate(0%, 0%);
+	align-content: center;
+	text-align: center;
+	float: left;
+
+}
+
+
+.kv {
+ position: relative;
+   text-align: center;
+   margin: 0 auto;
+   align-content: center;
+
+
+}
+
+.kvadrat2 {
+	position: absolute;
+	width: 1200px;
+	height: 1000px;
+	background-image: url(../Images/CAcyfN.jpg);
+	top: 2%;
+	padding: 0.2px;
+	border-radius: 2%;
+    float: left;
+    transform: translate(-50%, 2%);
+    
+}
+
+.kvadrat3 {
+	position: absolute;
+	width: 1200px;
+	height: 1000px;
+	background-image: url(../Images/CAcyfN.jpg);
+	padding: 0.2px;
+	border-radius: 2%;
+	transform: translate(-50%, 0%);
+}
+
+
+.img1 {
+	position: relative;
+	top: 120px;
+	border-radius: 50%;
+	margin-left: 30%;
+	height: 500px;
+	width: 500px;
+	justify-content: center;
+	align-content: center;
+	left: -15%;
+}
+
+.s1 {
+	position: relative;
+	display: inline-flex;
+	top: 150px;
+	background: #022732;
+	width: 320px;
+	height: 60px;
+	font-family: Pacifico;
+	font-size: 30px;
+	color: white;
+	text-decoration: none;
+	margin-left: 25px;
+	margin-top: 30px;
+	align-items: center;
+	justify-content: center;
+}
+
+.s1:hover {
+	color:red;
+	transition: 0.4s;
+}
+
+.h1 {
+	position: relative;
+	text-align: center;
+	font-family: Lobster;
+	font-size: 60px;
+	border: 5px solid black;
+	margin-left: 1px;
+	background-color: white;
+	left: -0.06%;
+}
+
+.ng {
+	position: absolute;
+	display: inline-flex;
+	align-content: center;
+	justify-content: center;
+	font-family: Lobster;
+	font-size: 60px;
+	border: 5px solid black;
+	margin: 0 auto;
+	background-color: white;
+	text-decoration: none;
+	color: black;
+	left: -0.3%;
+	width: 1195px;
+	top:90%;
+	transform: translate(0, -20%);
+}
+
+
+.ng:hover {
+	color:white;
+	transition: 0.4s;
+	background-color: #022732;
+}
+
+
+.ng2 {
+
+	position: relative;
+	display: inline-flex;
+	align-content: center;
+	justify-content: center;
+	font-family: Lobster;
+	font-size: 60px;
+	border: 5px solid black;
+	margin-left: 1px;
+	background-color: white;
+	text-decoration: none;
+	color: black;
+	left: %;
+	width: 1099px;
+	top: -5px;
+}
+
+
+.ng2:hover {
+	color:white;
+	transition: 0.4s;
+	background-color: #022732;
+}
+
+.m1 {
+	position: relative;
+	text-decoration: none;
+	color: #022732;
+	font-size: 40px;
+	font-family: Pacifico;
+	background-color: white;
+	width: 500px;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	margin: 2px;
+	border: 5px solid black;
+	margin-left: 26%;
+}
+
+.m1:hover {
+	color:white;
+	transition: 0.4s;
+	background-color: #022732;
+}
+
+.ptichka1 {
+	width:1200px;
+	height: 1600px;
+}
+
+.ptichka2 {
+	width:1200px;
+	height: 1500px;
+}
+
+
+.ptichka3 {
+	width:1200px;
+	height: 1500px;
+}
+
+
+.ptichka4 {
+ 	width: 1200px;
+ 	height: 540px;
+}
+
+
+
+.youtube {
+	position: relative;
+	font-size: 67px;
+	text-decoration: none;
+	border: 5px solid black;
+	background-color: white;
+	color:red;
+	justify-content: center;
+	align-content: center;
+	left: -5px;
+	top: -5px;
+}
+
+.youtube:hover {
+	transition: 0.4s;
+	background-color: ;
+	color: #8B0000;
+
+}
